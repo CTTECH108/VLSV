@@ -251,7 +251,7 @@ export default function Home() {
             <div className="flex items-center space-x-4">
               <div className="floating-animation">
                 <img
-                  src="/attached_assets/VL.png"
+                  src="https://i.postimg.cc/m1Y2VRD4/VL.webp"
                   alt="VLGE Institute Logo"
                   className="header-logo neon-glow-gold"
                 />
